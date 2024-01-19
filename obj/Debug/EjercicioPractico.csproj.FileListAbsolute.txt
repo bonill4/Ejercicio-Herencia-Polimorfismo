@@ -1,0 +1,7 @@
+D:\C#\EjercicioPractico\bin\Debug\EjercicioPractico.exe.config
+D:\C#\EjercicioPractico\bin\Debug\EjercicioPractico.exe
+D:\C#\EjercicioPractico\bin\Debug\EjercicioPractico.pdb
+D:\C#\EjercicioPractico\obj\Debug\EjercicioPractico.csproj.AssemblyReference.cache
+D:\C#\EjercicioPractico\obj\Debug\EjercicioPractico.csproj.CoreCompileInputs.cache
+D:\C#\EjercicioPractico\obj\Debug\EjercicioPractico.exe
+D:\C#\EjercicioPractico\obj\Debug\EjercicioPractico.pdb
